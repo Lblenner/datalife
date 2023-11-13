@@ -1,0 +1,3 @@
+[submodule "journal/gitjournal"]
+	path = journal/gitjournal
+	url = git@github.com:Lblenner/gitjournal.git
