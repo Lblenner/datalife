@@ -7,6 +7,9 @@ Tags =
 
 -->
 
+a voir 
+https://github.com/NicoHood/HID
+
 ## Arduino Mouse library
 
 https://www.arduino.cc/reference/en/language/functions/usb/mouse/
